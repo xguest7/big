@@ -13,7 +13,7 @@
 
 持失鯵呪<input type="number" name="count">
 
-<input type="submit" value="持失">
+<input type="submit" value="持失馬切">
 
 </form>
 
